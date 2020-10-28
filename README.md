@@ -63,5 +63,6 @@ __텍스트__
 
 # 7.2. 이미지
 ```
-
+![강사 cafe](링크URL "설명문구")
 ```
+![호랑이](https://github.com/ub-choi/E_HR_MARKDOWN/blob/main/pngwing.com.png "설명문구")
